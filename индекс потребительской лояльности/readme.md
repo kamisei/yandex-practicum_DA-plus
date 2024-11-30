@@ -31,6 +31,7 @@
 - по трафику - 01 0-0.01 (NPS = 35%)
 
 ## ДОПОЛНИТЕЛЬНЫЕ МАТЕРИАЛЫ
+Дашборд: https://public.tableau.com/app/profile/alyona.golyanovskaya/viz/telecommNPSproject/sheet0
 
 
 
