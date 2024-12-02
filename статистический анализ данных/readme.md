@@ -4,7 +4,7 @@
 - бизнес
 
 ## СТЕК
-- Pythin
+- Python
 - Pandas
 - Plotly
 - Seaborn
